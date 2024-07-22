@@ -1,0 +1,225 @@
+{
+    "0": {
+        "60_0": {
+            "lines": [
+                "Doesn't this house have any windows?"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "And didn't it look smaller from the",
+                "outside?"
+            ]
+        },
+        "92_0": {
+            "lines": [
+                "The one in the red-white over there!"
+            ]
+        },
+        "93_0": {
+            "lines": [
+                "No roughhousing in my study."
+            ]
+        },
+        "94_0": {
+            "lines": [
+                "HOLY SHIT IT'S BIG CHUNGUS!"
+            ]
+        },
+        "95_h1_0": {
+            "lines": [
+                "The Girl of Knowledge and Shade",
+                "<c$Patchouli Knowledge$The Girl of Knowledge and Shade>"
+            ]
+        },
+        "95_0": {
+            "lines": [
+                "What do you mean? I'm just the librarian",
+                "of the Scarlet Devil Mansion."
+            ]
+        },
+        "96_0": {
+            "lines": [
+                "Exactly, I heard that you were",
+				"right here in the Scarlet Devil Mansion."
+            ]
+        },
+        "97_0": {
+            "lines": [
+                "Oh. Well, who told you I was in here?"
+            ]
+        },
+        "98_0": {
+            "lines": [
+                "I don't know, but it seemed",
+                "like some powerful force."
+            ]
+        },
+        "100_0": {
+            "lines": [
+                "So you're saying that you're crazy."
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "I'm telling you, I'm crazy!",
+                "...er."
+            ]
+        },
+        "104_0": {
+            "lines": [
+                "...well, never mind. Tell me,",
+                "are you the lady of the house?"
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "What do you want with the mistress?"
+            ]
+        },
+        "107_0": {
+            "lines": [
+                "There's too much mist outside. It's a problem."
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "I see. Then I am afraid I absolutely cannot",
+                "let you see the mistress."
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "I'm afraid I can't let you stop me.",
+				"Besides, the person reading this would've",
+				"skipped the dialogue anyways."
+            ]
+        },
+        "111_0": {
+            "lines": [
+                "...Who are you, anyway?"
+            ]
+        }
+    },
+    "1": {
+        "61_0": {
+            "lines": [
+                "So tell me, why didn't the mansion look this",
+                "big from the outside?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "There's someone in the mansion who is",
+                "literally a walking Jojo reference."
+            ]
+        }
+    },
+    "10": {
+        "60_0": {
+            "lines": [
+                "Wow, that's a lot of books!"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "I think I'll sneak by and make",
+                "off with some of 'em later."
+            ]
+        },
+        "91_0": {
+            "lines": [
+                "You will do no such thing!"
+            ]
+        },
+        "92_0": {
+            "lines": [
+				        "HOLY SHIT IT'S BIG CHUNGUS!"
+            ]
+        },
+        "94_h1_0": {
+            "lines": [
+                "The Girl of Knowledge and Shade",
+                "<c$Patchouli Knowledge$The Girl of Knowledge and Shade>"
+            ]
+        },
+        "93_0": {
+            "lines": [
+                "Let's see, \"How to passively remove the ",
+                "black thing in front of me...\""
+            ]
+        },
+        "95_0": {
+            "lines": [
+                "Ay bro that sounds kinda racist, chill."
+            ]
+        },
+        "96_0": {
+            "lines": [
+                "I suppose so. Anyways, how did you",
+                "get in here?"
+            ]
+        },
+        "97_0": {
+            "lines": [
+                "Oh, I have my ways. Heard that you",
+				"were in this mansion."
+            ]
+        },
+        "98_0": {
+            "lines": [
+                "Really? I wonder who would tell",
+                "you that information."
+            ]
+        },
+        "99_0": {
+            "lines": [
+                "Honestly I don't know.",
+                "Say, wanna crack a cold one?"
+            ]
+        },
+        "100_0": {
+            "lines": [
+                "How about you get out of",
+				"my library?"
+            ]
+        },
+        "101_0": {
+            "lines": [
+                "I have enough cans to last us",
+				"almost three days."
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "Then maybe I'll help myself",
+				"after I defeat you."
+            ]
+        },
+        "103_0": {
+            "lines": [
+                "I am delicious."
+            ]
+        },
+        "104_0": {
+            "lines": [
+                "Let's see, how to easily remove",
+                "unneeded portions of food..."
+            ]
+        }
+    },
+    "11": {
+        "61_0": {
+            "lines": [
+                "You're pretty good with magic.",
+                "Ya got anythin' else to show me?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "I'm literally a dead meme",
+                "What more could I show ya?"
+            ]
+        }
+    }
+}
