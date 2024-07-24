@@ -1,6 +1,6 @@
 {
     "id": "daichungus",
-    "title": "Daichungus-made patches",
+    "title": "Repo of Daichungus",
     "contact": "shitpostman14@gmail.com",
     "servers": [
         "https://mirrors.thpatch.net/Daichungus/"
