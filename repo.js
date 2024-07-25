@@ -1,7 +1,7 @@
 {
     "id": "daichungus",
     "title": "Repo of Daichungus",
-    "contact": "shitpostman14@gmail.com",
+    "contact": "Discord daichungus",
     "servers": [
         "https://mirrors.thpatch.net/Daichungus/"
     ],
