@@ -6,5 +6,5 @@
 	"servers": [
 		"https://mirrors.thpatch.net/Daichungus/mof_pc98ost"
 	],
-	"title": "(TH10) Replace OST with NotQuiteHere's PC-98 Arranges",
+	"title": "(TH10) Replace OST with NotQuiteHere's PC-98 Arranges [Akyuu's Classic Score Volume 1]",
 }	
