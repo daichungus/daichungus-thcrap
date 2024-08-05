@@ -1,5 +1,11 @@
 This is the repository of thcrap patches made by Daichungus.
 
-It all started because of "When you hear Big Chungus is in the Scarlet Devil Mansion".
-
 Action > words. Because you ain't getting much done with complaining.
+
+--LIST OF PATCHES--
+
+1. patchy_chungus: Replace Patchouli in th06 with Big Chungus
+
+2. mof_pc98ost: Replace th10 OST with NotQuiteHere's PC-98 arrange album (Thank you for providing and allowing me to use the audio!)
+
+
