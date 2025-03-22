@@ -7,8 +7,8 @@
         "https://raw.githubusercontent.com/daichungus/daichungus-thcrap/master/"
     ],
     "patches": {
-        "mof_pc98ost": "(TH10) Replace OST with NotQuiteHere's PC-98 Arranges [Akyuu's Classic Score Volume 1]",
-        "month_first": "Replace various characters' themes with Philiponbread's MONTH FIRST remixes",
-        "patchy_chungus": "(TH06) Replace Patchouli with Big Chungus"
+        "patchy_chungus": "(TH06) Replace Patchouli with Big Chungus",
+        "mof_pc98ost": "(TH10) Replace OST with a PC-98 arrange album (by NotQuiteHere)",
+        "month_first": "Replace select tracks with Philiponbread's MONTH FIRST remixes"
     }
 }
