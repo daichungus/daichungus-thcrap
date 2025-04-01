@@ -42,6 +42,10 @@ In other words, they are stuck in limbo.
 5. ティアオイエツォン(withered leaf)
 6. ブクレシュティの人形師
 7. 人形裁判　～ 人の形弄びし少女
+8. 天空の花の都
+9. 幽霊楽団 ～ Phantom Ensemble
+- 幽雅に咲かせ、墨染の桜 ～ Border of Life
+- ~~ボーダーオブライフ~~ (it's too good.)
 #### TH10
 - 厄神様の通り道　～ Dark Road
 - フォールオブフォール　～ 秋めく滝
