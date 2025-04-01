@@ -17,6 +17,8 @@ Thanks to [NotQuiteHere](https://www.youtube.com/@NotQuiteHere) for providing th
 ## `month_first` (WIP)
 Replace various characters' themes with [Philiponbread's MONTH FIRST remixes](https://www.youtube.com/playlist?list=PL0898CD588F387B3B)
 ### List of replaced tracks so far:
+#### TH08
+- 恋色マスタースパーク (replaced with [APRIL FIRST](https://www.youtube.com/watch?v=OqjEipldpFc))
 #### TH09
 - おてんば恋娘の冒険 (replaced with [SEPTEMBER FIRST](https://www.youtube.com/watch?v=DUogXC_Ec40))
 #### TH10
@@ -31,7 +33,7 @@ Each track either remains in the intro sequence, or keeps looping over a part be
 In other words, they are stuck in limbo.
 ### List of modified tracks so far:
 #### TH06
-7. 明治十七年の上海アリス
+- 明治十七年の上海アリス
 #### TH07
 1. 妖々夢　～ Snow or Cherry Petal
 2. 無何有の郷　～ Deep Mountain
@@ -41,6 +43,6 @@ In other words, they are stuck in limbo.
 6. ブクレシュティの人形師
 7. 人形裁判　～ 人の形弄びし少女
 #### TH10
-4. 厄神様の通り道　～ Dark Road
-8. フォールオブフォール　～ 秋めく滝
-11. 信仰は儚き人間の為に
+- 厄神様の通り道　～ Dark Road
+- フォールオブフォール　～ 秋めく滝
+- 信仰は儚き人間の為に
