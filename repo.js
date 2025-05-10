@@ -1,7 +1,7 @@
 {
     "id": "daichungus",
-    "title": "Repo of Daichungus",
-    "contact": "Discord daichungus",
+    "title": "Daichungus' high-quality patches",
+    "contact": "daichungus @ Discord",
     "servers": [
         "https://mirrors.thpatch.net/Daichungus/",
         "https://raw.githubusercontent.com/daichungus/daichungus-thcrap/master/"
