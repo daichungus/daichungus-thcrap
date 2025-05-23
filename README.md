@@ -29,11 +29,27 @@ Replace various characters' themes with [Philiponbread's MONTH FIRST remixes](ht
 
 The regular soundtrack, but it never gets to the "good part".
 
-Each track either remains in the intro sequence, or keeps looping over a part before it "slaps" or "begins".
+Each track either remains in the intro sequence, or keeps looping over a specific section.
 In other words, they are stuck in limbo.
 ### List of modified tracks so far:
 #### TH06
-- 明治十七年の上海アリス
+1. 赤より紅い夢
+2. ほおずきみたいに紅い魂
+3. 妖魔夜行
+4. ルーネイトエルフ
+5. おてんば恋娘
+6. 上海紅茶館　～ Chinese Tea
+7. 明治十七年の上海アリス
+8. ヴワル魔法図書館
+9. ラクトガール　～ 少女密室
+10. メイドと血の懐中時計
+11. 月時計　～ ルナ・ダイアル
+12. ツェペシュの幼き末裔
+13. 亡き王女の為のセプテット
+14. 魔法少女達の百年祭
+15. U.N.オーエンは彼女なのか？
+16. 紅より儚い永遠
+17. 紅楼　～ Eastern Dream...
 #### TH07
 1. 妖々夢　～ Snow or Cherry Petal
 2. 無何有の郷　～ Deep Mountain
@@ -44,8 +60,11 @@ In other words, they are stuck in limbo.
 7. 人形裁判　～ 人の形弄びし少女
 8. 天空の花の都
 9. 幽霊楽団 ～ Phantom Ensemble
-- 幽雅に咲かせ、墨染の桜 ～ Border of Life
-- ~~ボーダーオブライフ~~ (it's too good.)
+10. 東方妖々夢　～ Ancient Temple
+11. 広有射怪鳥事　～ Till When?
+12. アルティメットトゥルース
+13. 幽雅に咲かせ、墨染の桜 ～ Border of Life
+14. ボーダーオブライフ
 #### TH10
 - 厄神様の通り道　～ Dark Road
 - フォールオブフォール　～ 秋めく滝
