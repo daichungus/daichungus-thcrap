@@ -7,5 +7,5 @@
     "https://mirrors.thpatch.net/Daichungus/never_starts/",
     "https://raw.githubusercontent.com/daichungus/daichungus-thcrap/master/never_starts/"
   ],
-  "title": "(TH06, 07, 10) OST but every track is stuck in a limbo"
+  "title": "(TH06, 07) Regular OST but every track will get stuck in a limbo"
 }
