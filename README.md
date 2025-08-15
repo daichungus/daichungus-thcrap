@@ -14,6 +14,14 @@ Inspired by [this shitpost](https://www.youtube.com/watch?v=4OLzAU0Hx2Y)
 Replace th10 soundtrack with a [PC-98 OPNA cover album](https://www.youtube.com/watch?v=YkWKccjLMmM).
 
 Thanks to [NotQuiteHere](https://www.youtube.com/@NotQuiteHere) for providing the audio and allowing me to use it!
+## `pcb_goty`
+"Paint Cherry Blossom" patch by Gastari et al., now a THCRAP patch!
+
+Basically almost every texture was drawn in MS Paint.
+
+Midi music mode is recommended.
+
+[Example gameplay footage](https://www.youtube.com/watch?v=sxOlUKeGX8M)
 ## `month_first` (WIP)
 Replace various characters' themes with [Philiponbread's MONTH FIRST remixes](https://www.youtube.com/playlist?list=PL0898CD588F387B3B)
 ### List of replaced tracks so far:
@@ -65,6 +73,10 @@ In other words, they are stuck in limbo.
 12. アルティメットトゥルース
 13. 幽雅に咲かせ、墨染の桜 ～ Border of Life
 14. ボーダーオブライフ
+15. 妖々跋扈
+16. 少女幻葬　～ Necro-Fantasy
+17. 妖々跋扈　～ Who done it!
+18. ネクロファンタジア
 #### TH10
 - 厄神様の通り道　～ Dark Road
 - フォールオブフォール　～ 秋めく滝
