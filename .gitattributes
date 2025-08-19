@@ -27,6 +27,8 @@
 *.bin binary
 *.msg binary
 *.act binary
+*.jpg binary
+*.jpeg binary
 
 *.end binary
 *.flac binary
@@ -35,3 +37,4 @@
 *.psd binary
 *.xcf binary
 *.avs binary
+*.bak binary
