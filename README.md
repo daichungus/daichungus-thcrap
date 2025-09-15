@@ -1,8 +1,4 @@
-> If existence is suffering, why does Touhou exist?
-
 This is the repository of thcrap-compatible patches made by Daichungus.
-
-You are allowed to fork this repo and modify it. 
 
 You are **NOT** allowed to pass this off as your own work. You must give credit to Daichungus and anyone else attributed in these patches.
 # List of Patches
